@@ -1,4 +1,6 @@
-# AWS CDK - TypeScript project
+# AWS CDK - 【TEST】 TypeScript project
+
+## Create resources
 
 This project will create the following resources.
 
