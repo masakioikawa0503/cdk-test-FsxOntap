@@ -3,6 +3,7 @@
 *.d.ts
 node_modules
 *.copy
+backup
 
 # CDK asset staging directory
 .cdk.staging
