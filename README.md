@@ -17,7 +17,7 @@ This project will create the following resources.
   - SVM × 1
   - Volume × 2 (root volume is included)
 
-## After "git clone", run the following commands to create the resources in AWS CDK.
+## After "git clone", run the following commands to create the resources.
 
 - `npm install (or npm i)`
 - `cdk synth (or cdk diff)`
@@ -30,6 +30,8 @@ This project will create the following resources.
 After "cdk destroy", delete the backup of FSx for ONTAP.
 
 - Resource name to delete: `VolumeFSxForOntap`
+  ![](images/cleanup-1.png 'cleanup-1')
+  ![](images/cleanup-2.png 'cleanup-2')
 
 ## References
 
