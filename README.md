@@ -17,7 +17,7 @@ This project will create the following resources.
   - SVM × 1
   - Volume × 2 (root volume is included)
 
-## After "git clone", run the following commands to create the resources.
+## After "git clone", run the following commands to create the resources
 
 - `npm install (or npm i)`
 - `cdk synth (or cdk diff)`
